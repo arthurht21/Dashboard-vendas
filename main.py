@@ -211,3 +211,4 @@ Este é um **sistema completo de análise de vendas** com inteligência artifici
 ---
 *Desenvolvido com Python, Streamlit e ❤️*
 """)
+
